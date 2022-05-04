@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DesktopBannerCountdown.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TitleTextA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">距离高考还有|天</Value>
+    </Setting>
+    <Setting Name="TitleFontFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">微软雅黑</Value>
+    </Setting>
+    <Setting Name="TitleFontSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="TitleForeground" Type="System.Windows.Media.Color" Scope="User">
+      <Value Profile="(Default)">#FF000000</Value>
+    </Setting>
+    <Setting Name="CounterFontFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Circular Sp UI T Bold</Value>
+    </Setting>
+    <Setting Name="CounterFontSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="CounterNormalForeground" Type="System.Windows.Media.Color" Scope="User">
+      <Value Profile="(Default)">#FF169141</Value>
+    </Setting>
+    <Setting Name="DestinationDateA" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">06/06/2022 08:00:00</Value>
+    </Setting>
+    <Setting Name="DestinationDateB" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">06/08/2022 15:00:00</Value>
+    </Setting>
+    <Setting Name="TitleTextB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">距离解放还有|天</Value>
+    </Setting>
+    <Setting Name="DecimalPlaces" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="WindowBorderBrush" Type="System.Windows.Media.Color" Scope="User">
+      <Value Profile="(Default)">#99808080</Value>
+    </Setting>
+    <Setting Name="WindowBorderThickness" Type="System.Windows.Thickness" Scope="User">
+      <Value Profile="(Default)">1,1,1,5</Value>
+    </Setting>
+    <Setting Name="WindowCornerRadius" Type="System.Windows.CornerRadius" Scope="User">
+      <Value Profile="(Default)">10,10,10,10</Value>
+    </Setting>
+    <Setting Name="CounterDecimalFontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="CounterEmergencyForeground" Type="System.Windows.Media.Color" Scope="User">
+      <Value Profile="(Default)">#FFFF0000</Value>
+    </Setting>
+    <Setting Name="SwitchByLeftClick" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SwitchByDoubleClick" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TopMost" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WindowBackground" Type="System.Windows.Media.Color" Scope="User">
+      <Value Profile="(Default)">#99E9E9E9</Value>
+    </Setting>
+    <Setting Name="CounterDecimalWidth" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">210</Value>
+    </Setting>
+    <Setting Name="WindowPadding" Type="System.Windows.Thickness" Scope="User">
+      <Value Profile="(Default)">25,10,25,10</Value>
+    </Setting>
+    <Setting Name="EmergencyDays" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
